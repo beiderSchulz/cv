@@ -1,0 +1,33 @@
+body
+{
+  background-color: #CFDAC8;
+
+}
+
+hr
+{
+  background-color: #CFDAC8;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #625757;
+  border-width: 5px;
+  width: 5%;
+  height: 0;
+
+}
+
+h1
+{
+    color: #625757;
+}
+
+h3
+{
+    color: #625757;
+}
+
+th
+{
+    text-align: left;
+    color: #625757;
+}
